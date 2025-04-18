@@ -1,0 +1,12 @@
+
+python-dotenv==1.0.0
+
+
+ipython
+
+# CrewAI
+crewai==0.75
+crewai_tools==0.13.2
+
+git+https://github.com/davoshack/ai-custom-utils.git
+
